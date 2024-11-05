@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "PewDiePie",
+        "hombre": true,
+        "gamer": true,
+        "vlogs": false,
+        "comedia": true,
+        "suscriptores_mas_10_millones": true,
+        "coches": false
+    },
+    {
+        "nombre": "Yuya",
+        "hombre": false,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "suscriptores_mas_10_millones": true,
+        "coches": false
+    },
+    {
+        "nombre": "MrBeast",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": true,
+        "suscriptores_mas_10_millones": true,
+        "coches": false
+    },
+    {
+        "nombre": "SuperCarBlondie",
+        "hombre": false,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "suscriptores_mas_10_millones": true,
+        "coches": true
+    },
+    {
+        "nombre": "ElRubius",
+        "hombre": true,
+        "gamer": true,
+        "vlogs": false,
+        "comedia": true,
+        "suscriptores_mas_10_millones": true,
+        "coches": false
+    },
+    {
+        "nombre": "Juan de Dios Pantoja",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": true,
+        "coches": false,
+        "suscriptores_mas_10_millones": true
+    },
+    {
+        "nombre": "Juca",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "coches": true,
+        "suscriptores_mas_10_millones": false
+    },
+    {
+        "nombre": "Berth Oh",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "coches": false,
+        "suscriptores_mas_10_millones": true
+    },
+    {
+        "nombre": "Kimberly Loaiza",
+        "hombre": false,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "coches": false,
+        "suscriptores_mas_10_millones": true
+    },
+    {
+        "nombre": "Kenia OS",
+        "hombre": false,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "coches": false,
+        "suscriptores_mas_10_millones": true
+    },
+    {
+        "nombre": "Juca",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "coches": true,
+        "cantante": false,
+        "suscriptores_mas_10_millones": false
+    },
+    {
+        "nombre": "Luisito Comunica",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": true,
+        "coches": false,
+        "cantante": false,
+        "suscriptores_mas_10_millones": true
+    },
+    {
+        "nombre": "Berth Oh",
+        "hombre": true,
+        "gamer": false,
+        "vlogs": true,
+        "comedia": false,
+        "coches": true,
+        "cantante": false,
+        "suscriptores_mas_10_millones": true
+    }
+]
